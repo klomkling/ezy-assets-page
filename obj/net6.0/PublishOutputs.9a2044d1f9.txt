@@ -1,0 +1,7 @@
+/Users/sarawut/GitHub/ezy-assets-page/bin/net6.0/publish/ezy-assets-page
+/Users/sarawut/GitHub/ezy-assets-page/bin/net6.0/publish/appsettings.Development.json
+/Users/sarawut/GitHub/ezy-assets-page/bin/net6.0/publish/appsettings.json
+/Users/sarawut/GitHub/ezy-assets-page/bin/net6.0/publish/ezy-assets-page.dll
+/Users/sarawut/GitHub/ezy-assets-page/bin/net6.0/publish/ezy-assets-page.deps.json
+/Users/sarawut/GitHub/ezy-assets-page/bin/net6.0/publish/ezy-assets-page.runtimeconfig.json
+/Users/sarawut/GitHub/ezy-assets-page/bin/net6.0/publish/ezy-assets-page.pdb

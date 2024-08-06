@@ -1,0 +1,135 @@
+﻿<!DOCTYPE html>
+<html lang="th-TH">
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
+    <link rel="icon" type="image/x-icon" href="favicon.ico" />
+    <title>@ViewData["Title"] - EzyAssets</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Sarabun:wght@400;700&display=swap">
+    <link rel="stylesheet" href="~/lib/material-symbols/index.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/lib/bootstrap-icons/bootstrap-icons.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/Content/site/common-style.css" />
+    <link rel="stylesheet" href="~/Themes/modern-assets.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/Content/site/site.css" asp-append-version="true" />
+</head>
+<body>
+<section class="top-header">
+    <div class="headline-image">
+        <div class="container-xl h-100">
+            <div class="headline-logo-wrapper">
+                <img src="/Content/site/images/color-logo-xl.png" alt="" class="headline-logo">
+            </div>
+        </div>
+    </div>
+</section>
+
+<main class="s-front">
+    <section class="content">
+        <div class="container-fluid">
+            <div class="container-xl">
+                <div class="d-flex justify-content-center mt-4 mb-4" style="overflow: hidden;">
+                    <video class="w-75" controls="" autoplay="" loop="" preload="metadata" muted=""
+                           style="margin-top: -4px; height: calc(100% + 4px);">
+                        <source src="/Content/site/videos/ezyassets.mp4" type="video/mp4">
+                    </video>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    @RenderBody()
+
+</main>
+
+<section class="advantage-section bg-gray">
+
+
+    <div class="advantage-section-container container-xl">
+        <div class="advantage-title">
+            <h3 class="d-inline">ทำไมต้องเลือกเรา</h3>
+        </div>
+        <div class="row g-5">
+            <div class="col-12 col-md-6 col-xl-3">
+                <div class="advantage-icon">
+                    <span class="material-symbols-outlined bg-accent icon-canvas-lg icon-lg">assistant</span>
+                </div>
+                <div class="advantage-body">
+                    <h4>การจัดการที่มีประสิทธิภาพ</h4>
+                    <p>บริการของเราได้รับการออกแบบมาเพื่อทำให้กระบวนการจัดการสินทรัพย์สำหรับตัวแทนมีความคล่องตัว โดยมอบเครื่องมือและโซลูชันที่มีประสิทธิภาพเพื่อเพิ่มผลผลิต ลดค่าใช้จ่าย และรับประกันการใช้ทรัพยากรอย่างเหมาะสม</p>
+                </div>
+            </div>
+            <div class="col-12 col-md-6 col-xl-3">
+                <div class="advantage-icon">
+                    <div class="bg-accent icon-canvas-lg text-center">
+                        <i class="bi bi-piggy-bank-fill icon-lg"></i>
+                    </div>
+                </div>
+                <div class="advantage-body">
+                    <h4>คุ้มค่ากับค่าใช้จ่าย</h4>
+                    <p>บริการของเราช่วยให้ธุรกิจสามารถเพิ่มผลกำไรสูงสุดในขณะที่ลดค่าใช้จ่าย ทำให้ได้โซลูชันที่คุ้มค่ากับค่าใช้จ่าย ซึ่งช่วยเพิ่มผลลัพธ์ทางการเงินและปรับปรุงประสิทธิภาพการดำเนินงานโดยรวม</p>
+                </div>
+            </div>
+            <div class="col-12 col-md-6 col-xl-3">
+                <div class="advantage-icon">
+                    <div class="bg-accent icon-canvas-lg text-center">
+                        <i class="bi bi-graph-up icon-lg"></i>
+                    </div>
+                </div>
+                <div class="advantage-body">
+                    <h4>เพิ่มโอกาส</h4>
+                    <p>ด้วยการปรับกระบวนการให้เหมาะสมอย่างมีกลยุทธ์ ส่งเสริมการทำงานร่วมกัน และใช้ประโยชน์จากโซลูชันนวัตกรรม บริการของเราช่วยให้ธุรกิจสามารถเพิ่มโอกาสในการขาย เพิ่มโอกาสในการประสบความสำเร็จ และบรรลุการเติบโตอย่างยั่งยืน</p>
+                </div>
+            </div>
+            <div class="col-12 col-md-6 col-xl-3">
+                <div class="advantage-icon">
+                    <span class="material-symbols-outlined bg-accent icon-canvas-lg icon-lg">security</span>
+                </div>
+                <div class="advantage-body">
+                    <h4>ความปลอดภัย</h4>
+                    <p>บริการของเรามุ่งเน้นความเป็นส่วนตัวและความปลอดภัยของผู้ใช้โดยการใช้โปรโตคอลการเข้ารหัสที่แข็งแกร่ง การควบคุมการเข้าถึงที่เข้มงวด และการตรวจสอบอย่างสม่ำเสมอเพื่อปกป้องข้อมูลที่ละเอียดอ่อนและสร้างความมั่นใจในสภาพแวดล้อมที่เชื่อถือได้และปลอดภัย</p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+</section>
+<section class="footer-section container-fluid bg-gray-dark py-5">
+
+
+    <footer class="container-xl">
+        <div>
+            <img class="footer-logo" alt="EzyAssets.com" src="/Content/site/images/black-logo-xl.png">
+        </div>
+        <h4 class="footer-motto">Transforming Real Estate Management with Technology</h4>
+        <div class="pt-2">
+            <address class="d-flex flex-column small">
+                <strong>บริษัท แอดสไปเรชั่น จำกัด</strong><br>
+                66/1 ถนนบางขุนนนท์ แขวงบางขุนนนท์ เขตบางกอกน้อย กรุงเทพมหานคร 10700<br>
+                เลขประจำตัวผู้เสียภาษี: 0105562089270<br>
+                mobile: 061-559-1446<br>
+                Email: ezyassets@hotmail.com<br>
+            </address>
+        </div>
+        <div class="d-flex align-items-center gap-2 pt-3">
+            <span>©2024</span>
+            @* <a href="/Page/TermsAndConditions" class="btn ads-btn p-0">Terms and Conditions</a> *@
+        </div>
+    </footer>
+
+
+</section>
+
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+
+@await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

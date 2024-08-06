@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bUgzKY7DvHoz4LNHvdjOhAt25W366a1Xwun5XntncevxkENAAakO+/wKCbX6kV9PduTGQHPhQpf2CYpuroV4RA==",
+  "success": true,
+  "projectFilePath": "/Users/sarawut/GitHub/ezy-assets-page/ezy-assets-page.csproj",
+  "expectedPackageFiles": [
+    "/Users/sarawut/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.29/microsoft.aspnetcore.app.ref.6.0.29.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,432 @@
+:root {
+  --ads-body-font-size: 1rem;
+  --ads-body-color: #fff;
+  --ads-color-light-blue: #55dde0;
+  --ads-color-dim-blue: #33658a;
+  --ads-color-dark-blue: #2f4858;
+  --ads-color-light-orange: #f6ae2d;
+  --ads-color-dark-orange: #f26419;
+}
+
+h1, .h1 {
+  font-size: 29px;
+  line-height: 1.33;
+}
+@media (min-width: 768px) {
+  h1, .h1 {
+    font-size: 62px;
+    line-height: 1.2963;
+  }
+}
+@media (min-width: 992px) {
+  h1, .h1 {
+    font-size: 54px;
+  }
+}
+
+h2, .h2 {
+  font-size: 28px;
+  line-height: 1.5;
+}
+@media (min-width: 768px) {
+  h2, .h2 {
+    font-size: 48px;
+    line-height: 1.2;
+  }
+}
+@media (min-width: 992px) {
+  h2, .h2 {
+    font-size: 40px;
+  }
+}
+
+h3, .h3 {
+  font-size: 26px;
+  line-height: 1.5;
+}
+@media (min-width: 768px) {
+  h3, .h3 {
+    font-size: 30px;
+    line-height: 1.2;
+  }
+}
+@media (min-width: 992px) {
+  h3, .h3 {
+    font-size: 30px;
+  }
+}
+
+h4, .h4 {
+  font-size: 24px;
+  line-height: 1.2;
+}
+@media (min-width: 768px) {
+  h4, .h4 {
+    font-size: 24px;
+    line-height: 1.25;
+  }
+}
+
+h5, .h5 {
+  font-size: 22px;
+  line-height: 1.2;
+}
+@media (min-width: 768px) {
+  h5, .h5 {
+    font-size: 20px;
+    line-height: 1.3;
+  }
+}
+
+h6, .h6 {
+  line-height: 1.2;
+  font-weight: 400;
+}
+@media (min-width: 768px) {
+  h6, .h6 {
+    font-size: 16px;
+    line-height: 1.25;
+  }
+}
+
+h6 .small, .h6 .small {
+  color: #e7e7e7;
+}
+
+small, .small {
+  font-size: 14px;
+}
+
+.login-signup-separator {
+  color: var(--ads-color-light-orange);
+}
+
+.btn.ads-btn,
+.btn.ads-btn-link {
+  font-size: var(--ads-body-font-size);
+  border-color: transparent;
+}
+.btn.ads-btn:active,
+.btn.ads-btn-link:active {
+  border-color: transparent;
+}
+
+.color-light-orange,
+.btn-light-orange {
+  color: var(--ads-color-light-orange);
+}
+
+.color-dark-orange,
+.btn-dark-orange {
+  color: var(--ads-color-dark-orange);
+}
+
+.btn.btn-login-signup {
+  color: var(--ads-color-light-orange);
+  border: 1px solid transparent;
+  transition-property: color;
+  transition-duration: 0.5s;
+}
+.btn.btn-login-signup:hover, .btn.btn-login-signup:active {
+  color: var(--ads-color-dark-orange);
+  border: 1px solid transparent;
+}
+.btn.btn-login-signup:focus {
+  outline: none;
+  box-shadow: none;
+}
+
+.btn.btn-register {
+  font-size: 1.5rem;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  color: #ffffff;
+  background-color: var(--ads-color-dim-blue);
+  border: 1px solid transparent;
+  transition-property: background-color;
+  transition-duration: 0.5s;
+}
+.btn.btn-register:hover, .btn.btn-register:active {
+  background-color: var(--ads-color-dark-blue);
+  border: 1px solid transparent;
+}
+.btn.btn-register:focus {
+  outline: none;
+  box-shadow: none;
+}
+
+.btn-select-period {
+  font-size: 1.25rem;
+}
+
+.btn-dark-blue {
+  color: #ffffff;
+  background-color: var(--ads-color-dim-blue);
+  border: 1px solid transparent;
+  border-radius: 0.375rem;
+  transition-property: background-color;
+  transition-duration: 0.5s;
+}
+.btn-dark-blue:hover, .btn-dark-blue:active {
+  color: #ffffff;
+  background-color: var(--ads-color-dark-blue);
+  border: 1px solid transparent;
+}
+.btn-dark-blue:focus {
+  outline: none;
+  box-shadow: none;
+}
+
+.bg-gray {
+  background-color: #282e3e;
+  color: #b0b3bc;
+}
+
+.bg-gray-dark {
+  background-color: #f7f7f7;
+}
+
+.bg-accent {
+  background-color: var(--ads-color-dark-orange);
+  color: #ffffff;
+}
+
+.footer-logo {
+  width: auto;
+  height: 10rem;
+}
+
+.footer-motto {
+  font-size: medium;
+}
+
+.btn.btn-request {
+  font-size: 1.5rem;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  background-color: var(--ads-color-light-orange);
+  border: 1px solid transparent;
+  transition-property: background-color;
+  transition-duration: 0.5s;
+}
+.btn.btn-request:hover, .btn.btn-request:active {
+  background-color: var(--ads-color-dark-orange);
+  border: 1px solid transparent;
+}
+.btn.btn-request:focus {
+  outline: none;
+  box-shadow: none;
+}
+
+.small {
+  font-size: small;
+}
+
+.headline-logo-wrapper {
+  background-color: rgba(0, 0, 0, 0.75);
+  width: 160px;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: start;
+}
+.headline-logo-wrapper .headline-logo {
+  width: 120px;
+  height: auto;
+}
+
+.slick-header-columns {
+  display: flex;
+  left: auto !important;
+}
+.slick-header-columns .slick-header-column {
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+.s-front p {
+  margin-bottom: 0;
+}
+.s-front .content {
+  padding: 0;
+  min-height: calc(100vh - 440px);
+}
+.s-front .price-plan .product-item {
+  display: flex;
+  flex-direction: column;
+  padding: 1.5rem;
+  background-color: #ffffff;
+  box-shadow: 0 3px 7px rgba(0, 0, 0, 0.12);
+}
+.s-front .price-plan .product-item .product-item-name {
+  display: flex;
+  justify-content: center;
+  padding-bottom: 1rem;
+}
+.s-front .price-plan .product-item .product-item-name h4 {
+  position: relative;
+}
+.s-front .price-plan .product-item .product-item-name h4::after {
+  position: absolute;
+  left: 0;
+  bottom: -10px;
+  right: 50%;
+  border: 1px solid var(--ads-color-dark-blue);
+  content: "";
+}
+.s-front .price-plan .product-item .product-item-price {
+  display: flex;
+  justify-content: center;
+  align-items: baseline;
+}
+.s-front .price-plan .product-item .product-item-price h3 {
+  margin-right: 1rem;
+  color: var(--ads-color-dark-orange);
+}
+.s-front .price-plan .product-item .product-item-description {
+  flex: 1 1 auto;
+}
+
+.grid-image-container {
+  height: 500px;
+  max-height: 500px;
+}
+.grid-image-container .grid-image-col {
+  padding: 0.25rem;
+}
+.grid-image-container .grid-image-col .img-col {
+  background-size: cover;
+  background-position: center;
+  height: 100%;
+}
+
+.icon-canvas-lg {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+}
+
+.icon-md {
+  font-size: 32px;
+  line-height: 1.5;
+  text-align: center;
+}
+
+.icon-lg {
+  font-size: 48px;
+  line-height: 1.65;
+  text-align: center;
+}
+
+.advantage-section {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+.advantage-section .advantage-section-container .advantage-title {
+  padding-bottom: 2rem;
+  color: #ffffff;
+}
+.advantage-section .advantage-section-container .advantage-title h3 {
+  position: relative;
+}
+.advantage-section .advantage-section-container .advantage-title h3::after {
+  position: absolute;
+  left: 0;
+  bottom: -10px;
+  right: 50%;
+  border: 1px solid #ffffff;
+  content: "";
+}
+.advantage-section .advantage-section-container .advantage-icon {
+  padding-top: 1rem;
+}
+.advantage-section .advantage-section-container .advantage-body {
+  padding-top: 0.5rem;
+}
+.advantage-section .advantage-section-container .advantage-body h4 {
+  color: #ffffff;
+}
+
+#LoginPanel h2, #SignUpPanel h2 {
+  position: relative;
+}
+#LoginPanel h2::after, #SignUpPanel h2::after {
+  position: absolute;
+  left: 0;
+  bottom: -10px;
+  right: 50%;
+  border: 1px solid var(--ads-color-dark-orange);
+  content: "";
+}
+#LoginPanel .field, #SignUpPanel .field {
+  display: flex;
+  flex-direction: column;
+}
+#LoginPanel .field .caption, #SignUpPanel .field .caption {
+  float: none;
+  text-align: left;
+  padding-bottom: 0.25rem;
+  width: 100%;
+}
+#LoginPanel .field input[type=text],
+#LoginPanel .field input[type=password],
+#LoginPanel .field input[type=email], #SignUpPanel .field input[type=text],
+#SignUpPanel .field input[type=password],
+#SignUpPanel .field input[type=email] {
+  line-height: 2.25;
+}
+#LoginPanel .field .select2-container .select2-choice, #SignUpPanel .field .select2-container .select2-choice {
+  line-height: 2.25;
+  height: auto;
+  background-image: none;
+}
+#LoginPanel .field .select2-container .select2-choice .select2-arrow, #SignUpPanel .field .select2-container .select2-choice .select2-arrow {
+  background-image: none;
+}
+#LoginPanel .field .select2-container .select2-choice .select2-arrow b, #SignUpPanel .field .select2-container .select2-choice .select2-arrow b {
+  margin-top: 6px;
+}
+#LoginPanel .btn.btn-login,
+#LoginPanel .btn.btn-signup, #SignUpPanel .btn.btn-login,
+#SignUpPanel .btn.btn-signup {
+  font-size: 1.5rem;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  color: #ffffff;
+  background-color: var(--ads-color-dim-blue);
+  border: 1px solid transparent;
+  transition-property: background-color;
+  transition-duration: 0.5s;
+}
+#LoginPanel .btn.btn-login:hover, #LoginPanel .btn.btn-login:active,
+#LoginPanel .btn.btn-signup:hover,
+#LoginPanel .btn.btn-signup:active, #SignUpPanel .btn.btn-login:hover, #SignUpPanel .btn.btn-login:active,
+#SignUpPanel .btn.btn-signup:hover,
+#SignUpPanel .btn.btn-signup:active {
+  background-color: var(--ads-color-dark-blue);
+  border: 1px solid transparent;
+}
+#LoginPanel .btn.btn-login:focus,
+#LoginPanel .btn.btn-signup:focus, #SignUpPanel .btn.btn-login:focus,
+#SignUpPanel .btn.btn-signup:focus {
+  outline: none;
+  box-shadow: none;
+}
+
+#SignUpPanel .categories .category {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.s-Form .caption {
+  width: 200px;
+}
+
+* {
+  font-size: var(--ads-body-font-size);
+}
+
+body {
+  background-color: var(--ads-body-color);
+}

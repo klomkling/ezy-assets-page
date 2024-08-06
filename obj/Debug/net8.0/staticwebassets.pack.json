@@ -1,0 +1,857 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/obj/Debug/net8.0/scopedcss/projectbundle/ezy-assets-page.bundle.scp.css",
+      "PackagePath": "staticwebassets/ezy-assets-page.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Content/serenity/images/32px.png",
+      "PackagePath": "staticwebassets/Content/serenity/images/32px.png"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Content/serenity/images/alarm-clock.png",
+      "PackagePath": "staticwebassets/Content/serenity/images/alarm-clock.png"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Content/serenity/images/application-resize-actual.png",
+      "PackagePath": "staticwebassets/Content/serenity/images/application-resize-actual.png"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Content/serenity/images/application-resize-full.png",
+      "PackagePath": "staticwebassets/Content/serenity/images/application-resize-full.png"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Content/serenity/images/arrow-circle-135.png",
+      "PackagePath": "staticwebassets/Content/serenity/images/arrow-circle-135.png"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Content/serenity/images/arrow-curve-left.png",
+      "PackagePath": "staticwebassets/Content/serenity/images/arrow-curve-left.png"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Content/serenity/images/arrow-down.png",
+      "PackagePath": "staticwebassets/Content/serenity/images/arrow-down.png"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Content/serenity/images/arrow-step-over.png",
+      "PackagePath": "staticwebassets/Content/serenity/images/arrow-step-over.png"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Content/serenity/images/back-arrow-white.png",
+      "PackagePath": "staticwebassets/Content/serenity/images/back-arrow-white.png"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Content/serenity/images/balance.png",
+      "PackagePath": "staticwebassets/Content/serenity/images/balance.png"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Content/serenity/images/bomb.png",
+      "PackagePath": "staticwebassets/Content/serenity/images/bomb.png"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Content/serenity/images/box.png",
+      "PackagePath": "staticwebassets/Content/serenity/images/box.png"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Content/serenity/images/calculator3.png",
+      "PackagePath": "staticwebassets/Content/serenity/images/calculator3.png"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Content/serenity/images/calendar-blue.png",
+      "PackagePath": "staticwebassets/Content/serenity/images/calendar-blue.png"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Content/serenity/images/check2.png",
+      "PackagePath": "staticwebassets/Content/serenity/images/check2.png"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Content/serenity/images/checkbox-no.png",
+      "PackagePath": "staticwebassets/Content/serenity/images/checkbox-no.png"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Content/serenity/images/checkbox-null.png",
+      "PackagePath": "staticwebassets/Content/serenity/images/checkbox-null.png"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Content/serenity/images/checkbox-states.png",
+      "PackagePath": "staticwebassets/Content/serenity/images/checkbox-states.png"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Content/serenity/images/checkbox-yes.png",
+      "PackagePath": "staticwebassets/Content/serenity/images/checkbox-yes.png"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Content/serenity/images/clock.png",
+      "PackagePath": "staticwebassets/Content/serenity/images/clock.png"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Content/serenity/images/cross-script.png",
+      "PackagePath": "staticwebassets/Content/serenity/images/cross-script.png"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Content/serenity/images/cross.png",
+      "PackagePath": "staticwebassets/Content/serenity/images/cross.png"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Content/serenity/images/csv.png",
+      "PackagePath": "staticwebassets/Content/serenity/images/csv.png"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Content/serenity/images/data-sync.png",
+      "PackagePath": "staticwebassets/Content/serenity/images/data-sync.png"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Content/serenity/images/delete.png",
+      "PackagePath": "staticwebassets/Content/serenity/images/delete.png"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Content/serenity/images/delete2.png",
+      "PackagePath": "staticwebassets/Content/serenity/images/delete2.png"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Content/serenity/images/document-copy.png",
+      "PackagePath": "staticwebassets/Content/serenity/images/document-copy.png"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Content/serenity/images/document-task.png",
+      "PackagePath": "staticwebassets/Content/serenity/images/document-task.png"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Content/serenity/images/docx.png",
+      "PackagePath": "staticwebassets/Content/serenity/images/docx.png"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Content/serenity/images/down.gif",
+      "PackagePath": "staticwebassets/Content/serenity/images/down.gif"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Content/serenity/images/dropdown.png",
+      "PackagePath": "staticwebassets/Content/serenity/images/dropdown.png"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Content/serenity/images/edit.png",
+      "PackagePath": "staticwebassets/Content/serenity/images/edit.png"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Content/serenity/images/eraser-plus.png",
+      "PackagePath": "staticwebassets/Content/serenity/images/eraser-plus.png"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Content/serenity/images/eraser.png",
+      "PackagePath": "staticwebassets/Content/serenity/images/eraser.png"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Content/serenity/images/folder-import.png",
+      "PackagePath": "staticwebassets/Content/serenity/images/folder-import.png"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Content/serenity/images/full-screen-2.png",
+      "PackagePath": "staticwebassets/Content/serenity/images/full-screen-2.png"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Content/serenity/images/gtk-print-preview.png",
+      "PackagePath": "staticwebassets/Content/serenity/images/gtk-print-preview.png"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Content/serenity/images/header-columns-bg.gif",
+      "PackagePath": "staticwebassets/Content/serenity/images/header-columns-bg.gif"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Content/serenity/images/header-columns-over-bg.gif",
+      "PackagePath": "staticwebassets/Content/serenity/images/header-columns-over-bg.gif"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Content/serenity/images/icon_sprite.png",
+      "PackagePath": "staticwebassets/Content/serenity/images/icon_sprite.png"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Content/serenity/images/loading.gif",
+      "PackagePath": "staticwebassets/Content/serenity/images/loading.gif"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Content/serenity/images/lock.png",
+      "PackagePath": "staticwebassets/Content/serenity/images/lock.png"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Content/serenity/images/magnifier-left.png",
+      "PackagePath": "staticwebassets/Content/serenity/images/magnifier-left.png"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Content/serenity/images/magnifier.png",
+      "PackagePath": "staticwebassets/Content/serenity/images/magnifier.png"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Content/serenity/images/mail.png",
+      "PackagePath": "staticwebassets/Content/serenity/images/mail.png"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Content/serenity/images/maximize-button.png",
+      "PackagePath": "staticwebassets/Content/serenity/images/maximize-button.png"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Content/serenity/images/mhtml.png",
+      "PackagePath": "staticwebassets/Content/serenity/images/mhtml.png"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Content/serenity/images/money.png",
+      "PackagePath": "staticwebassets/Content/serenity/images/money.png"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Content/serenity/images/node-insert-next.png",
+      "PackagePath": "staticwebassets/Content/serenity/images/node-insert-next.png"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Content/serenity/images/node-select-all.png",
+      "PackagePath": "staticwebassets/Content/serenity/images/node-select-all.png"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Content/serenity/images/ok.png",
+      "PackagePath": "staticwebassets/Content/serenity/images/ok.png"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Content/serenity/images/outlook.png",
+      "PackagePath": "staticwebassets/Content/serenity/images/outlook.png"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Content/serenity/images/pager-load.gif",
+      "PackagePath": "staticwebassets/Content/serenity/images/pager-load.gif"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Content/serenity/images/paper-clip.png",
+      "PackagePath": "staticwebassets/Content/serenity/images/paper-clip.png"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Content/serenity/images/pencil.png",
+      "PackagePath": "staticwebassets/Content/serenity/images/pencil.png"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Content/serenity/images/quick-search-loading.gif",
+      "PackagePath": "staticwebassets/Content/serenity/images/quick-search-loading.gif"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Content/serenity/images/slash.png",
+      "PackagePath": "staticwebassets/Content/serenity/images/slash.png"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Content/serenity/images/spreadsheet.png",
+      "PackagePath": "staticwebassets/Content/serenity/images/spreadsheet.png"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Content/serenity/images/star-pencil.png",
+      "PackagePath": "staticwebassets/Content/serenity/images/star-pencil.png"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Content/serenity/images/sticky-note-plus.png",
+      "PackagePath": "staticwebassets/Content/serenity/images/sticky-note-plus.png"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Content/serenity/images/store.png",
+      "PackagePath": "staticwebassets/Content/serenity/images/store.png"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Content/serenity/images/table.png",
+      "PackagePath": "staticwebassets/Content/serenity/images/table.png"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Content/serenity/images/tag-label.png",
+      "PackagePath": "staticwebassets/Content/serenity/images/tag-label.png"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Content/serenity/images/thumb-file-72.png",
+      "PackagePath": "staticwebassets/Content/serenity/images/thumb-file-72.png"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Content/serenity/images/tick-empty.png",
+      "PackagePath": "staticwebassets/Content/serenity/images/tick-empty.png"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Content/serenity/images/tick-green.png",
+      "PackagePath": "staticwebassets/Content/serenity/images/tick-green.png"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Content/serenity/images/tick-red.png",
+      "PackagePath": "staticwebassets/Content/serenity/images/tick-red.png"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Content/serenity/images/toggle-expand.png",
+      "PackagePath": "staticwebassets/Content/serenity/images/toggle-expand.png"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Content/serenity/images/toggle.png",
+      "PackagePath": "staticwebassets/Content/serenity/images/toggle.png"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Content/serenity/images/trash.png",
+      "PackagePath": "staticwebassets/Content/serenity/images/trash.png"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Content/serenity/images/unchecked.gif",
+      "PackagePath": "staticwebassets/Content/serenity/images/unchecked.gif"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Content/serenity/images/universal.png",
+      "PackagePath": "staticwebassets/Content/serenity/images/universal.png"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Content/serenity/images/unlock-disable.png",
+      "PackagePath": "staticwebassets/Content/serenity/images/unlock-disable.png"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Content/serenity/images/unlock.png",
+      "PackagePath": "staticwebassets/Content/serenity/images/unlock.png"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Content/serenity/images/users.png",
+      "PackagePath": "staticwebassets/Content/serenity/images/users.png"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Content/serenity/images/wand-plus.png",
+      "PackagePath": "staticwebassets/Content/serenity/images/wand-plus.png"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Content/serenity/images/wheel.png",
+      "PackagePath": "staticwebassets/Content/serenity/images/wheel.png"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Content/serenity/images/xml.png",
+      "PackagePath": "staticwebassets/Content/serenity/images/xml.png"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Content/serenity/images/zoom.png",
+      "PackagePath": "staticwebassets/Content/serenity/images/zoom.png"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Content/site/common-style.css",
+      "PackagePath": "staticwebassets/Content/site/common-style.css"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Content/site/common-theme.css",
+      "PackagePath": "staticwebassets/Content/site/common-theme.css"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Content/site/images/accordion-arrows.png",
+      "PackagePath": "staticwebassets/Content/site/images/accordion-arrows.png"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Content/site/images/bg-top-2.png",
+      "PackagePath": "staticwebassets/Content/site/images/bg-top-2.png"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Content/site/images/bg-top-3.png",
+      "PackagePath": "staticwebassets/Content/site/images/bg-top-3.png"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Content/site/images/bg-top-min.png",
+      "PackagePath": "staticwebassets/Content/site/images/bg-top-min.png"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Content/site/images/bg-top.png",
+      "PackagePath": "staticwebassets/Content/site/images/bg-top.png"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Content/site/images/black-logo-xl.png",
+      "PackagePath": "staticwebassets/Content/site/images/black-logo-xl.png"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Content/site/images/color-logo-xl.png",
+      "PackagePath": "staticwebassets/Content/site/images/color-logo-xl.png"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Content/site/images/logo-40.png",
+      "PackagePath": "staticwebassets/Content/site/images/logo-40.png"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Content/site/images/logo-b-40.png",
+      "PackagePath": "staticwebassets/Content/site/images/logo-b-40.png"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Content/site/images/logo-w-128.png",
+      "PackagePath": "staticwebassets/Content/site/images/logo-w-128.png"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Content/site/images/logo-w-40.png",
+      "PackagePath": "staticwebassets/Content/site/images/logo-w-40.png"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Content/site/images/serenity-logo-40.png",
+      "PackagePath": "staticwebassets/Content/site/images/serenity-logo-40.png"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Content/site/images/serenity-logo-g-40.png",
+      "PackagePath": "staticwebassets/Content/site/images/serenity-logo-g-40.png"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Content/site/images/serenity-logo-w-128.png",
+      "PackagePath": "staticwebassets/Content/site/images/serenity-logo-w-128.png"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Content/site/images/serenity-logo-w-40.png",
+      "PackagePath": "staticwebassets/Content/site/images/serenity-logo-w-40.png"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Content/site/images/tick-empty.png",
+      "PackagePath": "staticwebassets/Content/site/images/tick-empty.png"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Content/site/images/tick-green-partial.png",
+      "PackagePath": "staticwebassets/Content/site/images/tick-green-partial.png"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Content/site/images/tick-red-partial.png",
+      "PackagePath": "staticwebassets/Content/site/images/tick-red-partial.png"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Content/site/images/white-logo-xl.png",
+      "PackagePath": "staticwebassets/Content/site/images/white-logo-xl.png"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Content/site/site.css",
+      "PackagePath": "staticwebassets/Content/site/site.css"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Content/site/site.htmlcontent.css",
+      "PackagePath": "staticwebassets/Content/site/site.htmlcontent.css"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Content/site/videos/ezyassets.mp4",
+      "PackagePath": "staticwebassets/Content/site/videos/ezyassets.mp4"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Scripts/datepicker/bootstrap-datepicker.js",
+      "PackagePath": "staticwebassets/Scripts/datepicker/bootstrap-datepicker.js"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Scripts/datepicker/datepicker3.css",
+      "PackagePath": "staticwebassets/Scripts/datepicker/datepicker3.css"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Scripts/daterangepicker/daterangepicker-bs3.css",
+      "PackagePath": "staticwebassets/Scripts/daterangepicker/daterangepicker-bs3.css"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Scripts/daterangepicker/daterangepicker.js",
+      "PackagePath": "staticwebassets/Scripts/daterangepicker/daterangepicker.js"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Scripts/fullcalendar/fullcalendar.css",
+      "PackagePath": "staticwebassets/Scripts/fullcalendar/fullcalendar.css"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Scripts/fullcalendar/fullcalendar.js",
+      "PackagePath": "staticwebassets/Scripts/fullcalendar/fullcalendar.js"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Scripts/fullcalendar/fullcalendar.min.css",
+      "PackagePath": "staticwebassets/Scripts/fullcalendar/fullcalendar.min.css"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Scripts/fullcalendar/fullcalendar.min.js",
+      "PackagePath": "staticwebassets/Scripts/fullcalendar/fullcalendar.min.js"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Scripts/fullcalendar/fullcalendar.print.css",
+      "PackagePath": "staticwebassets/Scripts/fullcalendar/fullcalendar.print.css"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Scripts/jvectormap/jquery-jvectormap-1.2.2.css",
+      "PackagePath": "staticwebassets/Scripts/jvectormap/jquery-jvectormap-1.2.2.css"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Scripts/jvectormap/jquery-jvectormap-1.2.2.min.js",
+      "PackagePath": "staticwebassets/Scripts/jvectormap/jquery-jvectormap-1.2.2.min.js"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Scripts/jvectormap/jquery-jvectormap-world-mill-en.js",
+      "PackagePath": "staticwebassets/Scripts/jvectormap/jquery-jvectormap-world-mill-en.js"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Scripts/knob/jquery.knob.js",
+      "PackagePath": "staticwebassets/Scripts/knob/jquery.knob.js"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Scripts/sparkline/jquery.sparkline.js",
+      "PackagePath": "staticwebassets/Scripts/sparkline/jquery.sparkline.js"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Scripts/sparkline/jquery.sparkline.min.js",
+      "PackagePath": "staticwebassets/Scripts/sparkline/jquery.sparkline.min.js"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Themes/modern-assets.css",
+      "PackagePath": "staticwebassets/Themes/modern-assets.css"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/Themes/modern-assets.js",
+      "PackagePath": "staticwebassets/Themes/modern-assets.js"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/bak/css/site.css",
+      "PackagePath": "staticwebassets/bak/css/site.css"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/bak/favicon.ico",
+      "PackagePath": "staticwebassets/bak/favicon.ico"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/bak/js/site.js",
+      "PackagePath": "staticwebassets/bak/js/site.js"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/bak/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/bak/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/bak/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/bak/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/bak/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/bak/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/bak/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/bak/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/bak/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/bak/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/bak/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/bak/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/bak/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/bak/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/bak/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/bak/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/lib/Idevs/Content/idevs.dropdown.css",
+      "PackagePath": "staticwebassets/lib/Idevs/Content/idevs.dropdown.css"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/lib/Idevs/Content/idevs.print.css",
+      "PackagePath": "staticwebassets/lib/Idevs/Content/idevs.print.css"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/lib/bootstrap-icons/bootstrap-icons.css",
+      "PackagePath": "staticwebassets/lib/bootstrap-icons/bootstrap-icons.css"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/lib/bootstrap-icons/bootstrap-icons.json",
+      "PackagePath": "staticwebassets/lib/bootstrap-icons/bootstrap-icons.json"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/lib/bootstrap-icons/bootstrap-icons.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap-icons/bootstrap-icons.min.css"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/lib/bootstrap-icons/bootstrap-icons.scss",
+      "PackagePath": "staticwebassets/lib/bootstrap-icons/bootstrap-icons.scss"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/lib/bootstrap-icons/fonts/bootstrap-icons.woff",
+      "PackagePath": "staticwebassets/lib/bootstrap-icons/fonts/bootstrap-icons.woff"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/lib/bootstrap-icons/fonts/bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets/lib/bootstrap-icons/fonts/bootstrap-icons.woff2"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/lib/chartjs/chart.js",
+      "PackagePath": "staticwebassets/lib/chartjs/chart.js"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/lib/chartjs/chart.min.js",
+      "PackagePath": "staticwebassets/lib/chartjs/chart.min.js"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/lib/material-symbols/LICENSE",
+      "PackagePath": "staticwebassets/lib/material-symbols"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/lib/material-symbols/README.md",
+      "PackagePath": "staticwebassets/lib/material-symbols/README.md"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/lib/material-symbols/_core.scss",
+      "PackagePath": "staticwebassets/lib/material-symbols/_core.scss"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/lib/material-symbols/index.css",
+      "PackagePath": "staticwebassets/lib/material-symbols/index.css"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/lib/material-symbols/index.d.ts",
+      "PackagePath": "staticwebassets/lib/material-symbols/index.d.ts"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/lib/material-symbols/index.scss",
+      "PackagePath": "staticwebassets/lib/material-symbols/index.scss"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/lib/material-symbols/material-symbols-outlined.woff2",
+      "PackagePath": "staticwebassets/lib/material-symbols/material-symbols-outlined.woff2"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/lib/material-symbols/material-symbols-rounded.woff2",
+      "PackagePath": "staticwebassets/lib/material-symbols/material-symbols-rounded.woff2"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/lib/material-symbols/material-symbols-sharp.woff2",
+      "PackagePath": "staticwebassets/lib/material-symbols/material-symbols-sharp.woff2"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/lib/material-symbols/outlined.css",
+      "PackagePath": "staticwebassets/lib/material-symbols/outlined.css"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/lib/material-symbols/outlined.scss",
+      "PackagePath": "staticwebassets/lib/material-symbols/outlined.scss"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/lib/material-symbols/package.json",
+      "PackagePath": "staticwebassets/lib/material-symbols/package.json"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/lib/material-symbols/rounded.css",
+      "PackagePath": "staticwebassets/lib/material-symbols/rounded.css"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/lib/material-symbols/rounded.scss",
+      "PackagePath": "staticwebassets/lib/material-symbols/rounded.scss"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/lib/material-symbols/sharp.css",
+      "PackagePath": "staticwebassets/lib/material-symbols/sharp.css"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/lib/material-symbols/sharp.scss",
+      "PackagePath": "staticwebassets/lib/material-symbols/sharp.scss"
+    },
+    {
+      "Id": "/Users/sarawut/GitHub/ezy-assets-page/wwwroot/lib/moment.js/moment.min.js",
+      "PackagePath": "staticwebassets/lib/moment.js/moment.min.js"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.ezy-assets-page.props",
+      "PackagePath": "build\\ezy-assets-page.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.ezy-assets-page.props",
+      "PackagePath": "buildMultiTargeting\\ezy-assets-page.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.ezy-assets-page.props",
+      "PackagePath": "buildTransitive\\ezy-assets-page.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.ezy-assets-page.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
