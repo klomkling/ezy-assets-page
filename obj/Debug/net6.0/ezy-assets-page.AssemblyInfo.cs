@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ezy-assets-page")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+04eee383315d19be56a1a470f82cb16cef8642ec")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+afb6f1f0debc5b8000121b54afc3e05663962cf2")]
 [assembly: System.Reflection.AssemblyProductAttribute("ezy-assets-page")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ezy-assets-page")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
