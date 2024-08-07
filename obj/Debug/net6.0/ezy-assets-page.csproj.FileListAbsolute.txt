@@ -29,3 +29,4 @@
 /Users/sarawut/GitHub/ezy-assets-page/obj/Debug/net6.0/ezy-assets-page.pdb
 /Users/sarawut/GitHub/ezy-assets-page/obj/Debug/net6.0/ezy-assets-page.genruntimeconfig.cache
 /Users/sarawut/GitHub/ezy-assets-page/obj/Debug/net6.0/ref/ezy-assets-page.dll
+/Users/sarawut/GitHub/ezy-assets-page/obj/Debug/net6.0/ezy-assets-page.sourcelink.json
